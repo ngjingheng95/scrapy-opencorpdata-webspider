@@ -1,1 +1,0 @@
-to run: scrapy runspider UENWebCrawler.py -o [Name of CSV File].csv
